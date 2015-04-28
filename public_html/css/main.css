@@ -171,7 +171,7 @@ a#specialmailto{
 /* Header Wrap */
 #headerwrap {
 	/*background: url(../img/header-bg.jpg) no-repeat center top;*/
-	background-color: #6DDE49;
+	background-color: #40822B;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
@@ -256,7 +256,7 @@ a#specialmailto{
 
 #footwrap i {
 	padding-right: 8px;
-	color: #294220;
+	color: #6DDE49;
 }
 
 /* Copyright Wrap */
