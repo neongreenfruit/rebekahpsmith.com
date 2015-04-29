@@ -8,7 +8,7 @@
 > Company: Cure International  
 > Job Title: IT Fellow  
 
-| Countries I've Been To:  | Countries I'm Headed To: | Countries I Want to Travel To: |
+| Countries I've Been To   | Countries I'm Headed To  | Countries I Want to Travel To  |
 | ------------------------ | ------------------------ | ------------------------------ |
 | Australia                | Dominician Republic      | Ireland                        |
 | Canada                   | Ethopia                  | Scotland                       |
