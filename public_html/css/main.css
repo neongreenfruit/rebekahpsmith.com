@@ -271,6 +271,9 @@ a#specialmailto{
 	color: white
 }
 
+#createdByLink a{
+	color: #4f4f4f;
+}
 
 
 /* Global Values */
