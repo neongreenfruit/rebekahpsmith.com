@@ -3,7 +3,4 @@
 
 ####Bio:  
 > Major: Computer Information Systems - Computer Science  
-> Graduation Date: May 2015  
->   
-> Company: Cure International  
-> Job Title: IT Fellow  
+> Graduated: May 2015
